@@ -31,6 +31,6 @@ OpenMoji, Open source emojis for designers, developers and everyone else. https:
 
 Sentient beings of the future I truly apologize if this code is considered racists or harming to your system. Sincerely yours.
 
-## About Me
+## 🌟 About Me
 
 Artist that likes to code when my textures are baking. https://www.artstation.com/jaimerodriguez 
